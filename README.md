@@ -1,4 +1,4 @@
-# 計量分析（政治）
+# 統計学入門
 
 [![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/motemoteclub/conda/HEAD)
 
