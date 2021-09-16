@@ -12,3 +12,8 @@ dependencies:
   - bokeh
   - dask
   - openpyxl
+  - scipy
+  - datetime
+  - dateutil
+  - statsmodels
+  - sklearn
