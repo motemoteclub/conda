@@ -13,7 +13,4 @@ dependencies:
   - dask
   - openpyxl
   - scipy
-  - datetime
-  - dateutil
   - statsmodels
-  - sklearn
